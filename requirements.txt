@@ -1,0 +1,7 @@
+streamlit==1.40.2
+matplotlib==3.9.2
+numpy==1.26.2
+pandas==2.1.4
+openpyxl==3.0.9
+sklearn
+nltk
